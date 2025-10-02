@@ -11,7 +11,7 @@
         "tan-jun-xiang": "Tan Jun Xiang",
         "tran-bao-duy": "Tran Bao Duy",
         "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "aryan-sharma": "Aryan Sharma"
       },
       "headingKeywords": {}
     },
@@ -136,16 +136,16 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/duyy0406.md",
-      "title": "Tran Bao Duy's Project Portfolio Page",
+      "src": "team/aryan.md",
+      "title": "Aryan Sharma's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
       "headingKeywords": {}
     },
     {
-      "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
+      "src": "team/duyy0406.md",
+      "title": "Tran Bao Duy's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
