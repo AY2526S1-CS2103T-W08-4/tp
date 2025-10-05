@@ -10,7 +10,7 @@
         "john-doe": "John Doe",
         "tan-jun-xiang": "Tan Jun Xiang",
         "tran-bao-duy": "Tran Bao Duy",
-        "jean-doe": "Jean Doe",
+        "tieu-trong-phuc": "Tieu Trong Phuc",
         "aryan-sharma": "Aryan Sharma"
       },
       "headingKeywords": {}
@@ -146,6 +146,14 @@
     {
       "src": "team/duyy0406.md",
       "title": "Tran Bao Duy's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/tieutrongphuc.md",
+      "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
