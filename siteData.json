@@ -115,6 +115,8 @@
         "listing-all-persons-list": "Listing all persons : list",
         "editing-a-person-edit": "Editing a person : edit",
         "adding-tags-to-a-person-tag": "Adding tags to a person : tag",
+        "adding-or-updating-a-note-note": "Adding or updating a note : note",
+        "viewing-a-note-viewnote": "Viewing a note : viewNote",
         "locating-persons-by-name-or-tag-find": "Locating persons by name or tag: find",
         "deleting-a-person-delete": "Deleting a person : delete",
         "clearing-all-entries-clear": "Clearing all entries : clear",
