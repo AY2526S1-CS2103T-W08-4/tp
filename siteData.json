@@ -120,6 +120,8 @@
         "deleting-a-note-deletenote": "Deleting a note: deleteNote",
         "locating-persons-by-name-or-tag-find": "Locating persons by name or tag: find",
         "deleting-a-person-delete": "Deleting a person : delete",
+        "adding-a-reminder-reminder-add": "Adding a reminder: reminder add",
+        "listing-reminders-reminder-list": "Listing reminders: reminder list",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "viewing-help-help": "Viewing help : help",
