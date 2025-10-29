@@ -107,10 +107,12 @@
       "src": "UserGuide.md",
       "headings": {
         "academeconnect-user-guide": "AcademeConnect User Guide",
+        "table-of-contents": "Table of Contents",
         "introduction": "Introduction",
         "quick-start": "Quick start",
         "tips": "Tips",
         "features": "Features",
+        "feature-list": "Feature List",
         "adding-a-person-add": "Adding a person: add",
         "listing-all-persons-list": "Listing all persons : list",
         "editing-a-person-edit": "Editing a person : edit",
