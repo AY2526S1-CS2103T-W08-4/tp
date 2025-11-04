@@ -53,6 +53,7 @@
         "implementation": "Implementation",
         "tag-autocomplete-feature": "Tag Autocomplete Feature",
         "note-feature": "Note Feature",
+        "reminder-feature": "Reminder Feature",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
