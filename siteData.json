@@ -119,6 +119,7 @@
     },
     {
       "src": "UserGuide.md",
+      "title": "AcademeConnect User Guide",
       "headings": {
         "academeconnect-user-guide": "AcademeConnect User Guide",
         "table-of-contents": "Table of Contents",
