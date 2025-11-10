@@ -931,4 +931,3 @@ account for the user using the cursor to click away from the note edit text box 
 7. **Allow tag autocompletion with multiple word tags:**
    *   **Current Flaw:** The tag autocompletion feature only works for single-word tags. If a user tries to autocomplete a multi-word tag (e.g., "machine learning"), after machine the autocomplete cannot continue to parse.
    *   **Proposed Enhancement:** We plan to enhance the tag autocompletion logic to support multi-word tags. This will involve adjusting the parsing and matching algorithms to recognize spaces within tags, allowing users to quickly select existing multi-word tags when adding or deleting them.
-
