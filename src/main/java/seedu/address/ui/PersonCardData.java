@@ -4,6 +4,10 @@ import javafx.collections.ObservableList;
 import seedu.address.model.person.Person;
 import seedu.address.model.reminder.Reminder;
 
+//@@author Duyy0406-reused
+//Code below generated with assistance from GitHub Copilot
+//with modifications
+
 /**
  * Encapsulates display data for a PersonCard, including computed reminder information.
  * Assumes the reminder list provided contains only upcoming reminders.
@@ -58,3 +62,4 @@ public class PersonCardData {
         return upcomingReminderCount > 0;
     }
 }
+//@@author
