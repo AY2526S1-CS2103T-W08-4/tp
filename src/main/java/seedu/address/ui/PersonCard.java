@@ -64,6 +64,9 @@ public class PersonCard extends UiPart<Region> {
         HBox.setHgrow(name, Priority.ALWAYS);
         name.setMaxWidth(Double.MAX_VALUE);
 
+        //@@author Duyy0406-reused
+        //Code below generated with assistance from GitHub Copilot
+        //with modifications
         String phoneValue = person.getPhone().value;
         if (phoneValue != null && !phoneValue.isEmpty()) {
             phone.setText("      📞  " + phoneValue);

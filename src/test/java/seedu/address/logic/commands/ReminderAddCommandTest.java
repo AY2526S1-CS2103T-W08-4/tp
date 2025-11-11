@@ -25,6 +25,10 @@ import seedu.address.model.reminder.Message;
 import seedu.address.model.reminder.Reminder;
 import seedu.address.testutil.ReminderBuilder;
 
+//@@author Duyy0406-reused
+//Code below generated with assistance from GitHub Copilot
+//with modifications
+
 public class ReminderAddCommandTest {
 
     private final Model model = new ModelManager(getTypicalAddressBook(), new UserPrefs());
@@ -207,3 +211,4 @@ public class ReminderAddCommandTest {
         assertTrue(nameToStringResult.contains("isIndexBased=false"));
     }
 }
+//@@author
